@@ -3,7 +3,7 @@ import { CareerProps } from "../types/careers";
 export const CAREERS: CareerProps[] = [
   {
     position: "Full-Stack Developer & Founder (CEO)",
-    company: "PT. Garuda Cloud Indonesia (garudacloud.id)",
+    company: "PT. Garuda Cloud Indonesia",
     logo: "/images/careers/parto-id.png",
     location: "Batam, Indonesia 🇮🇩",
     location_type: "Onsite",
