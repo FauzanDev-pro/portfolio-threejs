@@ -1,16 +1,16 @@
 export const METADATA = {
-  creator: "Satria Bahari",
+  creator: "Fauzan Fuadi",
   description: "Personal website, portfolio, blog",
-  keyword: "satria, satria bahari",
+  keyword: "fauzan, fauzan fuadi",
   authors: {
-    name: "Satria Bahari",
+    name: "Fauzan Fuadi",
     url: process.env.DOMAIN,
   },
   openGraph: {
     url: process.env.DOMAIN,
-    siteName: "Satria Bahari",
+    siteName: "Fauzan Fuadi",
     locale: "id-ID",
   },
-  exTitle: "| Satria Bahari",
+  exTitle: "| Fauzan Fuadi",
   profile: "/images/satria.jpg",
 };
