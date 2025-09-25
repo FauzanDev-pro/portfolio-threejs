@@ -2,18 +2,18 @@ import { CareerProps } from "../types/careers";
 
 export const CAREERS: CareerProps[] = [
   {
-    position: "Backend Golang Developer",
-    company: "Pt. Affan Technology Indonesia (Parto.id)",
+    position: "Full-Stack Developer & Founder (CEO)",
+    company: "PT. Garuda Cloud Indonesia (garudacloud.id)",
     logo: "/images/careers/parto-id.png",
-    location: "Jambi, Indonesia 🇮🇩",
+    location: "Batam, Indonesia 🇮🇩",
     location_type: "Onsite",
     type: "Internship",
-    start_date: "2025-07",
-    end_date: "2025-09",
-    industry: "Marketplace B2B/B2G",
-    link: "https://parto.id/",
+    start_date: "2025-02",
+    end_date: "-",
+    industry: "Cloud Computing Server",
+    link: "https://garudacloud.id/",
     responsibilities: [
-      "Developed and maintained backend services using Golang for Parto.id's internal attendance application.",
+      "Developed and maintained backend and frontend services for garudacloud.id's internal attendance application.",
       "Implemented efficient data handling and secure API integrations to support daily attendance workflows.",
       "Collaborated with frontend and product teams to ensure smooth functionality and seamless user experience.",
     ],
@@ -21,7 +21,7 @@ export const CAREERS: CareerProps[] = [
   },
   {
     position: "Frontend Web Developer",
-    company: "Pt. Eltran Indonesia",
+    company: "PT. Eltran Indonesia",
     logo: "/images/careers/eltran-indonesia.png",
     location: "Bandung, Indonesia 🇮🇩",
     location_type: "Remote",
@@ -77,7 +77,7 @@ export const CAREERS: CareerProps[] = [
   },
   {
     position: "Mobile Developer",
-    company: "Pt. Amanah Karya Indonesia (Amanah Corp)",
+    company: "PT. Amanah Karya Indonesia (Amanah Corp)",
     logo: "/images/careers/amanah-karya-indonesia.jpeg",
     location: "Depok, Indonesia 🇮🇩",
     location_type: "Remote",
